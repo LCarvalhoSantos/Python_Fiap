@@ -21,3 +21,10 @@ Capitulo 2: Variáveis
 
 - Demonstração dos tipos diferentes de variáveis e em quais casos utiliza-las.
 
+Capitulo 3: Listas
+
+- Primeiro contato com listas no Python. Alguns exercícios exemplificando suas funcionalidades.
+
+Capitulo 3: Funções
+
+- Demonstração de como criar e utilizar funções na linguagem. 
