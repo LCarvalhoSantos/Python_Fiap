@@ -1,7 +1,3 @@
-from Cap3_Funcoes import Package
-
-Package <IdentificacaoDeFuncoes>
-
 def preencherInventario(lista):
   resp="S"
   while resp == "S":
