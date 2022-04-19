@@ -6,7 +6,7 @@ def preencherInventario(lista):
               int(input("Número Serial: ")),
               input("Departamento: ")]
     lista.append(equipamento)
-    resp = input("Digite "S" para continuar: ").upper()
+    resp = input("Digite S para continuar: ").upper()
 
 def exibirInventario(lista):
     for elemento in lista:
