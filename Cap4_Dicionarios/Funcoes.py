@@ -1,6 +1,6 @@
 #PERGUNTAS PARA ENTRADA DE DADOS
 def per():
-    res = input("Digite: I = Inserir, P = Pesquisar, E = Excluir, L = Listar ou S = Sair: ")
+    res = input("Digite: I = Inserir, P = Pesquisar, E = Excluir, L = Listar ou S = Sair: ").upper()
     return str(res)
 #GUARDANDO DADOS NO DICIONARIO
 
