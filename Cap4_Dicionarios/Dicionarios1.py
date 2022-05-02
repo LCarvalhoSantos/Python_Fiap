@@ -1,3 +1,5 @@
+#EXEMPLIFICANDO DICIONARIOS DE DADOS
+
 usuarios = {}
 usuarios = {
     "Chaves":["Chaves Silva","17/06/2017","Recep_01"],

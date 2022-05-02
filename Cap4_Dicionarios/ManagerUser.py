@@ -1,3 +1,4 @@
+#IMPORTANDO TODAS AS FUNÇÕES DO ARQUIVO
 from Funcoes import *
 users = {}
 

@@ -1,3 +1,7 @@
+from datetime import datetime
+
+data = datetime.now()
+
 #PERGUNTAS PARA ENTRADA DE DADOS
 def per():
     res = input("Digite: I = Inserir, P = Pesquisar, E = Excluir, L = Listar ou S = Sair: ").upper()
@@ -5,8 +9,7 @@ def per():
 #GUARDANDO DADOS NO DICIONARIO
 
 def entrada(dic):
-    cod = input("Login: ")
-    dic[cod]=[input("Nome: "), input("Data de ultimo acesso: ")]
+    dic[int(input("Digite o código do usuário: "))]=[input("Nome: "), input("Data de ultimo acesso: "), input("Nivel de acesso: "), data]
 
 #PESQUISANDO LOGINS
 def pesquisar(dic, cod):
