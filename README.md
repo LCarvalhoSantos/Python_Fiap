@@ -28,3 +28,11 @@ Capitulo 3: Listas
 Capitulo 3: Funções
 
 - Demonstração de como criar e utilizar funções na linguagem. 
+
+Capitulo 4: Dicionários
+
+- Utilização dos dicionários como apresentação de dados organizados.
+
+Capitulo 4: Tuplas
+
+- Apresentação das tuplas como alternativa dos dicionários e funcionalidades diferentes.
