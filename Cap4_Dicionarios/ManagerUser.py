@@ -1,5 +1,5 @@
 #IMPORTANDO TODAS AS FUNÇÕES DO ARQUIVO
-from Funcoes import *
+from Funcoes.Funcoes_Dicionarios import *
 users = {}
 
 res = per()
